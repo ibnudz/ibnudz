@@ -3,7 +3,7 @@ I'm Ibnu Dzumirrotin. I'm From Indonesia.
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
-[![Mail](https://img.shields.io/badge/-Gmail-c14438?style=flat&labelColor=fff&logo=Gmail&logoColor=c4302b)](mailto:ibnubert@tkjblackhat.or.id)
+[![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:ibnubert@tkjblackhat.or.id)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://t.me/Painlover_25)
 [![Whatsapp](https://img.shields.io/badge/-Whats%20App-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6285737235703)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/ibnoebert_25/)
