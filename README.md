@@ -5,7 +5,7 @@ You can use the website to generate badges: https://shields.io/
 -->
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/BertIbnoe)
 [![Mail](https://img.shields.io/badge/-Mail-blue?style=flat&logo=Mail&logoColor=white)](mailto:ibnubert@tkjblackhat.or.id)
-[![Line](https://img.shields.io/badge/-Line-brightgreen?style=flat&logo=Line&logoColor=white)](https://twitter.com/BertIbnoe)
+[![Line](https://img.shields.io/badge/-Line-brightgreen?style=flat&logo=Line&logoColor=white)](https://line.me/)
 [![Telegram](https://img.shields.io/badge/-Telegram-2ca5e0?style=flat&logo=telegram&logoColor=white)](https://line.me/ibnoe_bert)
 [![Whatsapp](https://img.shields.io/badge/-Whats%20App-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6285737235703)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/ibnoebert_25/)
@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>  
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/getfedora/getfedora-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/debian/debian-ar21.svg"></code>
-  <code><img width="15%" src="https://simpleicons.org/icons/kalilinux.svg"></code>
+  <code><img width="10%" src="https://simpleicons.org/icons/kalilinux.svg"></code>
  
 </p>
 <br>
