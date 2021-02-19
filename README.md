@@ -15,7 +15,8 @@
 ⣿⣿⣧⣀⣿.........⣀⣰⣏⣘⣆⣀⠀⠀
 
 I'm Ibnu Dzumirrotin. I'm From Indonesia.
-If you like it too please follow My Github and contact Me on 
+If you like it too please follow My Github and contact Me on
+</pre>
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -26,7 +27,6 @@ You can use the website to generate badges: https://shields.io/
 [![Whatsapp](https://img.shields.io/badge/-Whats%20App-25d366?style=flat&logo=whatsapp&logoColor=white)]( https://api.whatsapp.com/send?phone=6285737235703)
 [![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white)](https://www.instagram.com/ibnoebert_25/)
  [![Facebook](https://img.shields.io/badge/-Facebook-blue?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ibnoe.painlover/)
-</pre>
 
 &nbsp;
 
