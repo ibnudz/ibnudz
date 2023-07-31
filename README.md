@@ -105,15 +105,17 @@ You can use the website to generate badges: https://shields.io/
 
 
 
-<br><br>  
-## Just a Snake 🐍 Eating away my Contributions...😭
+<br><br>
+## Just a Snake 🐍 Eating away my Contributions...😃
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ibnudz/ibnudz/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ibnudz/ibnudz/output/github-snake.svg">
   <img alt="github-snake" src="https://raw.githubusercontent.com/ibnudz/ibnudz/output/github-snake-dark.svg">
 </picture>
+
 <br><br>
-## Have a Smiley Day...😃 :<br>
+## Have a Smiley Day...😃
+<br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?theme=vue" />
