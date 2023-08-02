@@ -65,17 +65,14 @@ You can use the website to generate badges: https://shields.io/
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
-<!--
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=ibnudz&theme=chartreuse-dark&no-frame=true" />
--->
-<img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=ibnudz&theme=chartreuse-dark&no-frame=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=ibnudz&theme=chartreuse-dark&no-frame=true" />
 </p>
 </details>
 
   
 <details><summary>Trophies</summary>
 <p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=ibnudz&column=7&theme=gruvbox&no-frame=true"/>
+  <img width=900 src="https://github-profile-trophy.vercel.app/?username=ibnudz&column=7&theme=gruvbox&no-frame=true"/>
 </details>
   
 
