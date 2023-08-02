@@ -59,7 +59,7 @@ You can use the website to generate badges: https://shields.io/
  
 <h3 align="left">Profile Views: 🧐</h3>
   
-![Profile views](https://gpvc.arturio.dev/ibnudz)
+![Profile views](https://komarev.com/ghpvc/?username=ibnudz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnudz&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
